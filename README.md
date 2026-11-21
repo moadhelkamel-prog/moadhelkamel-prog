@@ -1,80 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003300,100:000000&height=120&section=header&text=%3E%20moadh%20el%20kamel&fontSize=40&fontColor=00ff41&animation=blinking&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=150&section=header&text=%E2%9A%A1%20MOADH%20EL%20KAMEL&fontSize=42&fontColor=ffaa00&animation=fadeIn&fontAlignY=45&desc=%E2%96%B6%20Cybersecurity%20%7C%20DevOps%20%7C%20Cloud%20%E2%97%80&descAlignY=72&descSize=16&descColor=00d4aa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%3E+access+granted...;%3E+loading+cybersecurity+modules...;%3E+scanning+networks...;%3E+deploying+kubernetes+clusters...;%3E+system+online+%E2%80%94+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=700&color=FFAA00&center=true&vCenter=true&random=false&width=650&lines=%5B+INITIALIZING+SECURE+ENVIRONMENT+...+%5D;%5B+LOADING+CYBERSECURITY+MODULES+...+%5D;%5B+DEPLOYING+KUBERNETES+CLUSTERS+...+%5D;%5B+SYSTEM+READY+%E2%80%94+MOROCCO+%F0%9F%87%B2%F0%9F%87%A6+%5D" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=moadhelkamel-prog&label=CONNECTIONS&color=00ff41&style=flat-square)](https://github.com/moadhelkamel-prog)
-[![GitHub followers](https://img.shields.io/github/followers/moadhelkamel-prog?label=FOLLOWERS&style=flat-square&color=00ff41&logo=github&logoColor=00ff41)](https://github.com/moadhelkamel-prog?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=moadhelkamel-prog&label=CONNECTIONS&color=ffaa00&style=flat-square)](https://github.com/moadhelkamel-prog)
+[![GitHub followers](https://img.shields.io/github/followers/moadhelkamel-prog?label=FOLLOWERS&style=flat-square&color=00d4aa&logo=github)](https://github.com/moadhelkamel-prog?tab=followers)
 
 </div>
 
 ---
 
-```bash
-┌─────────────────────────────────────────────────────────────────────┐
-│  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗             │
-│  ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║             │
-│  █████╗   ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║             │
-│  ██╔══╝    ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║             │
-│  ███████╗   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║             │
-│  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝             │
-│                                                                     │
-│  > SYSTEM: ONLINE                                                   │
-│  > USER: moadh elkamel                                              │
-│  > ROLE: cybersecurity & devops student                             │
-│  > LOCATION: rabat / el jadida, morocco                             │
-└─────────────────────────────────────────────────────────────────────┘
+### `// identity.config`
+
+```typescript
+const moadh = {
+  name:     "Moadh El Kamel",
+  role:     "Cybersecurity & Cloud Student",
+  school:   "EST Sidi Bennour (Univ. Chouaïb Doukkali)",
+  degree:   "Licence CSTC (in progress)",
+  prev:     "DTS Infrastructure Digitale — CMC Tamesna",
+  location: "Rabat / El Jadida, Morocco 🇲🇦",
+  motto:    "Build. Break. Secure. Ship.",
+  available: true  // open to internships
+};
 ```
 
 ---
 
-### `> whoami`
+### `// experience.log`
 
-```bash
-$ cat /etc/profile
-name     : Moadh El Kamel
-role     : Cybersecurity & Cloud Student
-school   : EST Sidi Bennour (Univ. Chouaïb Doukkali)
-degree   : Licence CSTC (in progress)
-prev     : DTS Infrastructure Digitale — CMC Tamesna
-location : Rabat / El Jadida, Morocco
-motto    : "Build. Break. Secure. Ship."
+```diff
++ [2026-01 → 2026-06]  Caisse Manager       │ Technicien Support IT
++ [2026-03 → 2026-06]  Intelcia             │ Technicien Support Technique IT
++ [2025-04 → 2025-05]  4D Business (4DBC)   │ Stagiaire Cybersécurité
+  └─ Black Box Pentest (PTES) · Burp Suite · OWASP ZAP
+  └─ Nikto · Nmap · Wireshark · Apache/WordPress Hardening
 ```
 
 ---
 
-### `> cat /var/log/experience.log`
+### `// tech_stack[]`
 
-```
-[2026-01 → 2026-06]  Caisse Manager       │ Technicien Support IT
-[2026-03 → 2026-06]  Intelcia             │ Technicien Support Technique IT
-[2025-04 → 2025-05]  4D Business (4DBC)   │ Stagiaire Cybersécurité
-                      └─ Black Box Pentest (PTES) · Burp Suite · OWASP ZAP
-                      └─ Nikto · Nmap · Wireshark · Apache/WordPress Hardening
-```
-
----
-
-### `> ls /arsenal`
-
-**🛡️ Cybersécurité & Systèmes**
-`Linux` `Kali Linux` `Windows Server` `VMware` `VirtualBox` `pfSense`
-
-**☁️ Cloud & DevOps**
-`Docker` `Kubernetes` `Vagrant` `Git` `Bash` `PowerShell`
-
-**💻 Langages**
-`Python` `C` `Java` `SQL`
-
-**🏢 ERP**
-`SAP` `Odoo`
+| Category | Technologies |
+|----------|-------------|
+| 🛡️ **Cybersecurity** | Linux (Kali, Ubuntu) · Windows Server · VMware · VirtualBox · pfSense · VLANs |
+| ☁️ **Cloud & DevOps** | Docker · Kubernetes · Vagrant · Git · Bash · PowerShell · WSL2 |
+| 💻 **Languages** | Python · C · Java · SQL |
+| 🏢 **ERP** | SAP · Odoo |
+| 🔍 **Pentest Tools** | Burp Suite · OWASP ZAP · Nikto · Nmap · Wireshark · Metasploit |
+| 🧪 **Labs** | DVWA · bWAPP · Metasploitable · Mini-SOC · TryHackMe · HackTheBox |
 
 ---
 
-### `> cat /certs`
+### `// certifications`
 
 ```
 📜 Cisco
@@ -87,35 +68,22 @@ motto    : "Build. Break. Secure. Ship."
 📜 Security Blue Team
   └── OSINT
 
-📜 IBM (en cours)
+📜 IBM (in progress)
   ├── Introduction to AI
   └── Web Development Fundamentals
 ```
 
 ---
 
-### `> cat /labs`
+### `// projects[]`
 
-```
-🧪 Laboratoires pratiques :
-  ├── DVWA, bWAPP, Metasploitable  → pentesting
-  ├── Mini-SOC virtualisé           → pfSense, VLANs, supervision
-  ├── Burp Suite, OWASP ZAP, Nikto, Nmap, Wireshark
-  ├── TryHackMe & Hack The Box      → pratique régulière
-  └── Cyvex Club                    → membre actif
-```
-
----
-
-### `> ls ~/projects`
-
-| 📁 Projet | 📝 Description | 🛠️ Stack |
-|-----------|----------------|----------|
+| 📁 Project | 📝 Description | 🛠️ Stack |
+|------------|----------------|----------|
 | [**minikube-kubernetes**](https://github.com/moadhelkamel-prog/minikube-kubernetes) | TP SEC450 — Cluster K8s local. Compte rendu, scripts, captures réelles. | `K8s` `Docker` `Vagrant` `WSL2` |
 
 ---
 
-### `> echo $LANGUAGES`
+### `// languages`
 
 ```
 🇲🇦 Arabe (natif)  │  🇫🇷 Français (B2)  │  🇬🇧 Anglais (B2)  │  🇩🇪 Allemand (B2)
@@ -125,12 +93,16 @@ motto    : "Build. Break. Secure. Ship."
 
 <div align="center">
 
-### 📈 System Metrics
+### 📈 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=moadhelkamel-prog&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=moadhelkamel-prog&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moadhelkamel-prog&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffaa00&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moadhelkamel-prog&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" height="140"/>
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=moadhelkamel-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffaa00&icon_color=00d4aa&text_color=c9d1d9&ring_color=ffaa00" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=moadhelkamel-prog&theme=radical&hide_border=true&background=0d1117&ring=ffaa00&fire=00d4aa&currStreakLabel=ffaa00&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moadhelkamel-prog&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffaa00&text_color=c9d1d9" height="140"/>
 
 </div>
 
@@ -138,20 +110,16 @@ motto    : "Build. Break. Secure. Ship."
 
 ### `> contact --info`
 
-[![Email](https://img.shields.io/badge/Email-moadh.elkamel@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:moadh.elkamel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-moadhelkamel--prog-00ff41?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/moadhelkamel-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moadh_El_Kamel-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/moadh-el-kamel)
+[![Email](https://img.shields.io/badge/Email-moadh.elkamel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moadh.elkamel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-moadhelkamel--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moadhelkamel-prog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moadh_El_Kamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moadh-el-kamel)
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > system status: ONLINE                                     ║
-║  > security level: MAXIMUM                                   ║
-║  > "Build. Break. Secure. Ship."                             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ffaa00,100:0d1117&height=100&section=footer" width="100%"/>
+
+> *"Build it. Break it. Secure it. Ship it."* 🛡️
 
 </div>
