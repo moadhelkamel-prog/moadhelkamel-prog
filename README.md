@@ -34,7 +34,6 @@ const moadh = {
 
 ```diff
 + [2026-01 → 2026-06]  Caisse Manager       │ Technicien Support IT
-+ [2026-03 → 2026-06]  Intelcia             │ Technicien Support Technique IT
 + [2025-04 → 2025-05]  4D Business (4DBC)   │ Stagiaire Cybersécurité
   └─ Black Box Pentest (PTES) · Burp Suite · OWASP ZAP
   └─ Nikto · Nmap · Wireshark · Apache/WordPress Hardening
