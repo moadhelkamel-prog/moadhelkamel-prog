@@ -145,14 +145,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=moadhelkamel-prog&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moadhelkamel-prog/moadhelkamel-prog/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moadhelkamel-prog/moadhelkamel-prog/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/moadhelkamel-prog/moadhelkamel-prog/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 
 ---
