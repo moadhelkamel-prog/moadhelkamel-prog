@@ -1,76 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00ff41,50:0d1117,75:00ff41,100:0d1117&height=200&section=header&text=Moadh%20El%20Kamel&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%7C%20DevOps%20%7C%20Cloud&descAlignY=62&descSize=16&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0a23,50:1a0033,75:0a0a23,100:000000&height=250&section=header&text=Moadh%20El%20Kamel&fontSize=60&fontColor=ff00ff&animation=blinking&fontAlignY=38&desc=%E2%9A%A1+Cybersecurity+%7C+DevOps+%7C+Cloud+%E2%9A%A1&descAlignY=60&descSize=18&descColor=00ffff&stroke=ff00ff&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+DevOps+Student;%F0%9F%94%90+Pentester+%7C+Cloud+%7C+DevSecOps;%E2%9A%94%EF%B8%8F+Build+it.+Break+it.+Secure+it.;%F0%9F%8C%8D+Rabat+%2F+El+Jadida%2C+Morocco" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=600&color=FF00FF&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%94%90+Initializing+secure+connection...;%F0%9F%9B%A1%EF%B8%8F+Loading+cybersecurity+modules...;%E2%9A%A1+Deploying+Kubernetes+clusters...;%F0%9F%8C%8D+System+online+%E2%80%94+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=moadhelkamel-prog&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/moadhelkamel-prog)
-[![GitHub followers](https://img.shields.io/github/followers/moadhelkamel-prog?label=Followers&style=for-the-badge&color=00ff41&logo=github)](https://github.com/moadhelkamel-prog?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=moadhelkamel-prog&label=VISITORS&color=ff00ff&style=for-the-badge)](https://github.com/moadhelkamel-prog)
+[![Followers](https://img.shields.io/github/followers/moadhelkamel-prog?label=FOLLOWERS&style=for-the-badge&color=00ffff&logo=github)](https://github.com/moadhelkamel-prog?tab=followers)
 
 </div>
 
 ---
 
-### `$ cat /etc/profile`
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗                      ║
+║  ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║                      ║
+║  █████╗   ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║                      ║
+║  ██╔══╝    ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║                      ║
+║  ███████╗   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║                      ║
+║  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝                      ║
+║                                                                              ║
+║  > CYBERSECURITY · DEVOPS · CLOUD · MOROCCO 🇲🇦                               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+### `root@moadh:~# cat /etc/identity`
 
 ```bash
-┌─────────────────────────────────────────────────────────────┐
-│  USER     : Moadh El Kamel                                  │
-│  ROLE     : Cybersecurity & Cloud Technology Student        │
-│  SCHOOL   : EST Sidi Bennour (Univ. Chouaïb Doukkali)      │
-│  LOCATION : Rabat / El Jadida, Morocco 🇲🇦                   │
-│  STATUS   : Licence CSTC (en cours)                         │
-│  MOTTO    : "Build it. Break it. Secure it."                │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  ┌─[ Moadh El Kamel ]────────────────────────────────────┐  │
+│  │  Role     : Cybersecurity & Cloud Student              │  │
+│  │  School   : EST Sidi Bennour (Univ. Chouaïb Doukkali) │  │
+│  │  Degree   : Licence CSTC (in progress)                │  │
+│  │  Prev     : DTS Infrastructure Digitale — CMC Tamesna │  │
+│  │  Location : Rabat / El Jadida, Morocco 🇲🇦             │  │
+│  │  Motto    : "Build. Break. Secure. Ship."             │  │
+│  └───────────────────────────────────────────────────────┘  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### `$ cat experience.log`
+### `root@moadh:~# cat /var/log/experience.log`
 
-| 🏢 Organisation | 💼 Rôle | 📅 Période |
-|-----------------|---------|------------|
-| **Caisse Manager** | Technicien Support IT | Jan 2026 — Jun 2026 |
-| **Intelcia** | Technicien Support Technique IT | Mar 2026 — Jun 2026 |
-| **4D Business Consulting (4DBC)** | Stagiaire Cybersécurité | Avr 2025 — Mai 2025 |
-
-> 🔍 **Pentesting (4DBC) :** Black Box PTES avec Burp Suite, OWASP ZAP, Nikto, Nmap, Wireshark — durcissement Apache & WordPress.
+```
+[2026-01 → 2026-06]  Caisse Manager       │ Technicien Support IT
+[2026-03 → 2026-06]  Intelcia             │ Technicien Support Technique IT
+[2025-04 → 2025-05]  4D Business (4DBC)   │ Stagiaire Cybersécurité
+                      └─ Black Box Pentest (PTES) · Burp Suite · OWASP ZAP
+                      └─ Nikto · Nmap · Wireshark · Apache/WordPress Hardening
+```
 
 ---
 
-### `$ ls /skills`
+### `root@moadh:~# ls /arsenal`
 
 **🛡️ Cybersécurité & Systèmes**
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=0078d6)
+![VMware](https://img.shields.io/badge/VMware-0d1117?style=for-the-badge&logo=vmware&logoColor=607078)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+![pfSense](https://img.shields.io/badge/pfSense-0d1117?style=for-the-badge&logo=pfsense&logoColor=212121)
 
 **☁️ Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![Vagrant](https://img.shields.io/badge/Vagrant-0d1117?style=for-the-badge&logo=vagrant&logoColor=1868f2)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4eaa25)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391fe)
 
-**💻 Programmation & BDD**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**💻 Langages**
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599c)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
 
 **🏢 ERP**
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0d1117?style=for-the-badge&logo=sap&logoColor=0faaff)
+![Odoo](https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&logo=odoo&logoColor=714b67)
 
 ---
 
-### `$ cat certifications.txt`
+### `> cat /certs`
 
 ```
 📜 Cisco
@@ -90,43 +111,43 @@
 
 ---
 
-### `$ cat labs.txt`
+### `> cat /labs`
 
 ```
 🧪 Laboratoires pratiques :
-  ├── DVWA, bWAPP, Metasploitable (pentesting)
-  ├── Mini-SOC virtualisé (pfSense, VLANs, supervision)
+  ├── DVWA, bWAPP, Metasploitable  → pentesting
+  ├── Mini-SOC virtualisé           → pfSense, VLANs, supervision
   ├── Burp Suite, OWASP ZAP, Nikto, Nmap, Wireshark
-  ├── TryHackMe & Hack The Box (pratique régulière)
-  └── Cyvex Club (membre actif)
+  ├── TryHackMe & Hack The Box      → pratique régulière
+  └── Cyvex Club                    → membre actif
 ```
 
 ---
 
-### `$ ls ~/projects`
+### `> ls ~/projects`
 
 | 📁 Projet | 📝 Description | 🛠️ Stack |
 |-----------|----------------|----------|
-| [**minikube-kubernetes**](https://github.com/moadhelkamel-prog/minikube-kubernetes) | TP SEC450 — Cluster K8s local. Compte rendu, scripts, captures réelles, journaux. | `K8s` `Docker` `Vagrant` `WSL2` |
+| [**minikube-kubernetes**](https://github.com/moadhelkamel-prog/minikube-kubernetes) | TP SEC450 — Cluster K8s local. Compte rendu, scripts, captures réelles. | `K8s` `Docker` `Vagrant` `WSL2` |
 
 ---
 
-### `$ echo $LANGUAGES`
+### `> echo $LANGUAGES`
 
 ```
-🇲🇦 Arabe (natif)  |  🇫🇷 Français (B2)  |  🇬🇧 Anglais (B2)  |  🇩🇪 Allemand (B2)
+🇲🇦 Arabe (natif)  │  🇫🇷 Français (B2)  │  🇬🇧 Anglais (B2)  │  🇩🇪 Allemand (B2)
 ```
 
 ---
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📈 System Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=moadhelkamel-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=moadhelkamel-prog&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moadhelkamel-prog&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=c9d1d9&ring_color=ff00ff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=moadhelkamel-prog&theme=synthwave&hide_border=true&background=0d1117&ring=ff00ff&fire=00ffff&currStreakLabel=ff00ff&sideLabels=c9d1d9&dates=c9d1d9" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moadhelkamel-prog&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moadhelkamel-prog&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=c9d1d9" height="140"/>
 
 </div>
 
@@ -134,7 +155,7 @@
 
 ### `> contact --info`
 
-[![Email](https://img.shields.io/badge/Email-moadh.elkamel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moadh.elkamel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moadh.elkamel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moadh.elkamel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-moadhelkamel--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moadhelkamel-prog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moadh_El_Kamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moadh-el-kamel)
 
@@ -142,7 +163,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8338ec,100:0d1117&height=100&section=footer" width="100%"/>
 
 > *"Build it. Break it. Secure it."* 🛡️
 
