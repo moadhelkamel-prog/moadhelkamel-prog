@@ -47,8 +47,9 @@ const moadh = {
 |----------|-------------|
 | 🛡️ **Cybersecurity** | Linux (Kali, Ubuntu) · Windows Server · VMware · VirtualBox · pfSense · VLANs |
 | ☁️ **Cloud & DevOps** | Docker · Kubernetes · Vagrant · Git · Bash · PowerShell · WSL2 |
-| 💻 **Languages** | Python · C · Java · SQL |
+| 💻 **Languages** | Python · C · Java · SQL · HTML · CSS · JavaScript |
 | 🏢 **ERP** | SAP · Odoo |
+| 🌐 **Web Development** | HTML5 · CSS3 · JavaScript (ES6+) · Supabase · Stripe · Vercel |
 | 🔍 **Pentest Tools** | Burp Suite · OWASP ZAP · Nikto · Nmap · Wireshark · Metasploit |
 | 🧪 **Labs** | DVWA · bWAPP · Metasploitable · Mini-SOC · TryHackMe · HackTheBox |
 
@@ -79,6 +80,7 @@ const moadh = {
 | 📁 Project | 📝 Description | 🛠️ Stack |
 |------------|----------------|----------|
 | [**minikube-kubernetes**](https://github.com/moadhelkamel-prog/minikube-kubernetes) | TP SEC450 — Cluster K8s local. Compte rendu, scripts, captures réelles. | `K8s` `Docker` `Vagrant` `WSL2` |
+| [**m3allem-alu**](https://m3allem-alu.vercel.app/) | Plateforme web des artisans aluminium vérifiés au Maroc — 18 villes, 8 métiers. Démo live. | `HTML` `CSS` `JS` `Supabase` `Stripe` `Vercel` |
 
 ---
 
